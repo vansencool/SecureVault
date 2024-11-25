@@ -1,6 +1,6 @@
 # SecureVault
 
-**SecureVault** is a web interface for encrypting data using AES (Advanced Encryption Standard). It allows you to securely store sensitive information by encrypting it and provides an easy-to-use interface to manage encryption tasks.
+**SecureVault** is a web interface for encrypting data using AES (Advanced Encryption Standard).
 
 ## Setting Up
 
